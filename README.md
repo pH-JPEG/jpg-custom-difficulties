@@ -1,7 +1,7 @@
 # jpg-custom-difficulties
 json files of difficulties that I have created for the Deep Rock Galactic mod [Custom Difficulty](https://mod.io/g/drg/m/custom-difficulty).
 
-## Main Difficulties
+## [Main Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/edit/main/README.md)
 These are the "high-effort" difficulties I've created, intended to be another way to enjoy a 6x2-esque experience in modded DRG.
 Currently, these difficulties consist of:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2B.json)
@@ -13,8 +13,8 @@ Currently, these difficulties consist of:
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Send%20It!.json)
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. 
 
-## Meme Difficulties
+## [Meme Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Meme%20Difficulties)
 Self-explanatory, these are dumb ideas meant as jokes. Highly unbalanced and likely unplayable.
 
-## Lx2 Alpha and Beta Versions
+## [Lx2 Alpha and Beta Versions](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Lx2%20Alpha%20and%20Beta%20Versions)
 All of the various versions Lx2 existed as before its final version.
