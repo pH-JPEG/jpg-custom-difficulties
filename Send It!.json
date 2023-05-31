@@ -1,6 +1,6 @@
 {
   "Name": "Send It!",
-  "Description": "No swarms, but fast normal waves. Around the same difficulty as standard 6x2.",
+  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided.",
   "MaxActiveCritters": 90,
   "MaxActiveSwarmers": 120,
   "MaxActiveEnemies": 120,
