@@ -1,6 +1,7 @@
 {
   "Name": "Lx2",
-  "Description": "Lunatic. Embrace the cave madness. Final version of Lx2 as of now, will be updated if need be. I request 225+ Morkite true solos with this.",
+  "Description": "Updated for Season 4. S4 changes include Stalkers added to the EnemyPool, Sentinel SpawnSpread increased to 5000, Breeder HP halved, and adjusted Stingtail and Septic descriptors. If Septics begin to function again, there may be another update.
+Original description: Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -209,8 +210,8 @@
     }
   ],
   "DisruptiveEnemyPoolCount": {
-    "min": 8,
-    "max": 8
+    "min": 9,
+    "max": 9
   },
   "MinPoolSize": 30,
   "MaxActiveElites": 0,
@@ -235,7 +236,7 @@
       "MaxSpawnCount": 50,
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
-      "SpawnSpread": 1000
+      "SpawnSpread": 5000
     },
     "ED_Bomber_Explosive": {
       "Base": "ED_Bomber_Explosive",
@@ -255,7 +256,10 @@
       "MaxSpawnCount": 1,
       "DifficultyRating": 250,
       "Rarity": 6,
-      "SpawnAmountModifier": 1
+      "SpawnAmountModifier": 1,
+      "PawnStats": {
+        "PST_DamageResistance": 2
+      }
     },
     "ED_PatrolBot": {
       "Base": "ED_PatrolBot",
@@ -359,7 +363,10 @@
       "CanBeUsedInEncounters": true
     },
     "ED_JellyBreeder": {
-      "Base": "ED_JellyBreeder"
+      "Base": "ED_JellyBreeder",
+      "PawnStats": {
+        "PST_DamageResistance": 2
+      }
     },
     "ED_Spider_Swarmer": {
       "Base": "ED_Spider_Swarmer",
@@ -419,6 +426,37 @@
       "Rarity": 5.25,
       "MinSpawnCount": 15,
       "MaxSpawnCount": 50
+    },
+    "ED_Spider_Stalker": {
+      "Base": "ED_Spider_Stalker",
+      "DifficultyRating": 90,
+      "Rarity": 5.25,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 30,
+      "SpawnAmountModifier": 1,
+      "CanBeUsedForConstantPressure": true,
+      "CanBeUsedInEncounters": true,
+      "SpawnSpread": 5000
+    },
+    "ED_Spider_Lobber": {
+      "Base": "ED_Spider_Lobber",
+      "DifficultyRating": 20,
+      "Rarity": 5.125,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 10,
+      "SpawnAmountModifier": 1,
+      "CanBeUsedForConstantPressure": true,
+      "CanBeUsedInEncounters": true
+    },
+    "ED_Spider_Stinger": {
+      "Base": "ED_Spider_Stinger",
+      "DifficultyRating": 70,
+      "Rarity": 5.25,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 3,
+      "SpawnAmountModifier": 1,
+      "CanBeUsedForConstantPressure": true,
+      "CanBeUsedInEncounters": true
     }
   },
   "EnemyPool": {
@@ -435,7 +473,8 @@
       "ED_Spider_Tank_HeavySpawn",
       "ED_Bomber_Explosive",
       "ED_JellyBreeder_Swarm",
-      "ED_Jelly_Swarmer"
+      "ED_Jelly_Swarmer",
+      "ED_Spider_Stalker"
     ],
     "remove": []
   },
