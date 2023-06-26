@@ -217,9 +217,9 @@
   ],
   "DisruptiveEnemyPoolCount": {
     "min": 4,
-    "max": 6
+    "max": 7
   },
-  "MinPoolSize": 12,
+  "MinPoolSize": 13,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,
