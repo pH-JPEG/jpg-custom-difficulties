@@ -4,7 +4,7 @@ Dotty damage resistance amped to 85% from standard 75% in 6x2, 7x2, and 6x2 Diab
 High enemy diversity in waves, it’s likely you’ll see most bugs in the game in a single mission
 Frequent disruptives
 Sentinels, Fire Bombers, Patrol Bots, Shredders, and Stalkers spawn during waves
-Breeders can respawn
+Breeders can respawn and have half HP
 Nexuses spawn grunts
 Shockers spawn in all biomes
 Leeches grab at x1.5 speed
