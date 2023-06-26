@@ -9,7 +9,7 @@ Currently, these difficulties consist of:
 - 6x2 w/ Sentinels and Fire Bombers (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc1.json) and [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc4.json) denoting version)
   - 6x2, but Sentinels and Fire Bombers can spawn in missions.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2.json)
-  - My flagship difficulty. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2%20Features.txt).
+  - My flagship difficulty, currently updated for Season 4. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2%20Features.txt).
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Send%20It!.json)
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. 
 
