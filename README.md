@@ -10,6 +10,7 @@ Currently, these difficulties consist of:
   - 6x2, but Sentinels and Fire Bombers can spawn in missions.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2.json)
   - My flagship difficulty, currently updated for Season 4. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2%20Features.txt).
+  - **Disclaimer:** From an objective game design perspective, Lx2 is incredibly unbalanced. It is extremely punishing of any mistakes and highly RNG-based, with certain mission and biome combinations becoming near impossible from the start due to cave generation, encounter/stationary spawns, and nitra spawns. Don't expect to win even with highly experienced players. That said, this difficulty is made for those who find extreme variance and occasional outright BS enjoyable while pushing their patience and the vanilla game weapons to the limit.
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Send%20It!.json)
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. 
 
