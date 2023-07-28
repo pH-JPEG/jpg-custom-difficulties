@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB_rc4",
-  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. rc4: Alternate version where Sentinels are made less common and Fire Bombers are more common compared to version rc1. MinPoolSize changed to 14.",
+  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. rc4: Alternate version where Sentinels are made less common and Fire Bombers are more common compared to version rc1. MinPoolSize changed to 14. Latest update: Stingtails now take x2.2 more damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -267,6 +267,12 @@
       "MaxSpawnCount": 3,
       "CanBeUsedInConstantPressure": true,
       "CanBeUsedInEncounters": true
+    },
+    "ED_Spider_Stinger": {
+      "Base": "ED_Spider_Stinger",
+      "PawnStats": {
+        "PST_DamageResistance": 2.2
+      }
     }
   },
   "EnemyPool": {
