@@ -14,3 +14,4 @@ Grabbers spawn spread out from waves
 High veteran chance so grunts/mactera can promote frequently (Praetorian to Oppressor chance is left constant)
 Low chance for a large wave of bugs to spawn
 Waves can sometimes have low enemy diversity
+Stingtails take x2.2 damage
