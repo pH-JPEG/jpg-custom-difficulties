@@ -1,6 +1,6 @@
 {
   "Name": "6x2B",
-  "Description": "6x2, but there's more breeders. They also spawn shockers now.",
+  "Description": "6x2, but there's more breeders. They also spawn shockers now. Latest update: Stingtails now take x2.2 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -243,6 +243,12 @@
     },
     "ED_Jelly_Spawn": {
       "Base": "ED_Jelly_Swarmer"
+    },
+    "ED_Spider_Stinger": {
+      "Base": "ED_Spider_Stinger",
+      "PawnStats": {
+        "PST_DamageResistance": 2.2
+      }
     }
   },
   "EnemyPool": {
