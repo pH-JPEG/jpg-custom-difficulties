@@ -1,7 +1,6 @@
 {
   "Name": "Lx2",
-  "Description": "Updated for Season 4. S4 changes include Stalkers added to the EnemyPool, Sentinel SpawnSpread increased to 5000, Breeder HP halved, and adjusted Stingtail and Septic descriptors. Septic MaxSpawnCount 3.
-Original description: Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this.",
+  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Stingtails now take x2.2 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -456,7 +455,10 @@ Original description: Lunatic. Embrace the cave madness. I request 225+ morkite 
       "MaxSpawnCount": 3,
       "SpawnAmountModifier": 1,
       "CanBeUsedForConstantPressure": true,
-      "CanBeUsedInEncounters": true
+      "CanBeUsedInEncounters": true,
+      "PawnStats": {
+        "PST_DamageResistance": 2.2
+      }
     }
   },
   "EnemyPool": {
