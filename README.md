@@ -8,9 +8,12 @@ Currently, these difficulties consist of:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2B.json)
   - 6x2, but Breeders can respawn. They also spawn Shockers.
   - *Latest update:* Stingtails now take x2.2 damage. 
-- 6x2 w/ Sentinels and Fire Bombers (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc1.json) and [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc4.json) denoting version)
+- 6x2 w/ Sentinels and Fire Bombers (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc1.json), [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc4.json), and [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB-SK.json) denoting version)
   - 6x2, but Sentinels and Fire Bombers can spawn in missions.
-  - *Latest update:* Stingtails now take x2.2 damage in both versions rc1 and rc4.
+  - [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc1.json): The original release version.
+  - [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc4.json): The current recommended version that reduces amount of Sentinels and increases Fire Bomber amounts.
+  - [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB-SK.json): Based on version rc4. Stalkers can now spawn in missions.
+  - *Latest update:* Version SK added.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2.json)
   - My flagship difficulty, currently updated for Season 4. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2%20Features.txt).
   - *Latest update:* Stingtails now take x2.2 damage.
