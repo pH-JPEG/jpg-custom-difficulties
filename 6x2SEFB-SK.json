@@ -276,7 +276,7 @@
     },
     "ED_Spider_Stalker": {
       "Base": "ED_Spider_Stalker",
-      "DIfficultyRating": 55,
+      "DifficultyRating": 55,
       "Rarity": 6,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 3,
