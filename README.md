@@ -13,7 +13,7 @@ Currently, these difficulties consist of:
   - [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc1.json): The original release version.
   - [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB_rc4.json): The current recommended version that reduces amount of Sentinels and increases Fire Bomber amounts.
   - [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2SEFB-SK.json): Based on version rc4. Stalkers can now spawn in missions.
-  - *Latest update:* Version SK added.
+  - *Latest update:* For versions SK and rc4, 0-weight bins have been removed. Min and Max values for EnemyDiversity have been adjusted. Bin that spawned 0% veterans in VeteranNormal removed.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2.json)
   - My flagship difficulty, currently updated for Season 4. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2%20Features.txt).
   - *Latest update:* Stingtails now take x2.2 damage.
