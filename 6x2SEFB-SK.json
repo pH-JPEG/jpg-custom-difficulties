@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB-SK",
-  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Stingtails also take x2.2 damage.",
+  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Stingtails also take x2.2 damage. Latest update: Removed useless 0-weight bins throughout the file and fixed Min and Max values for EnemyDiversity. Removed bin of 0% veterans in VeteranNormal.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -89,47 +89,19 @@
   ],
   "StationaryDifficulty": [
     {
-      "weight": 0,
-      "range": {
-        "min": 0,
-        "max": 0
-      }
-    },
-    {
       "weight": 1,
       "range": {
         "min": 350,
         "max": 450
       }
-    },
-    {
-      "weight": 0,
-      "range": {
-        "min": 250,
-        "max": 350
-      }
     }
   ],
   "EnemyWaveInterval": [
-    {
-      "weight": 0,
-      "range": {
-        "min": 160,
-        "max": 180
-      }
-    },
     {
       "weight": 7.5,
       "range": {
         "min": 125,
         "max": 165
-      }
-    },
-    {
-      "weight": 0,
-      "range": {
-        "min": 299,
-        "max": 299
       }
     }
   ],
@@ -163,20 +135,6 @@
       "weight": 2,
       "range": {
         "min": 4,
-        "max": 2
-      }
-    },
-    {
-      "weight": 8,
-      "range": {
-        "min": 6,
-        "max": 4
-      }
-    },
-    {
-      "weight": 0,
-      "range": {
-        "min": 5,
         "max": 6
       }
     }
@@ -194,29 +152,8 @@
     {
       "weight": 2,
       "range": {
-        "min": 0,
-        "max": 0
-      }
-    },
-    {
-      "weight": 0,
-      "range": {
-        "min": 0.6,
-        "max": 0.7
-      }
-    },
-    {
-      "weight": 2,
-      "range": {
         "min": 0.5,
         "max": 0.8
-      }
-    },
-    {
-      "weight": 0,
-      "range": {
-        "min": 1,
-        "max": 1
       }
     }
   ],
@@ -276,7 +213,7 @@
     },
     "ED_Spider_Stalker": {
       "Base": "ED_Spider_Stalker",
-      "DifficultyRating": 55,
+      "DIfficultyRating": 55,
       "Rarity": 6,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 3,
