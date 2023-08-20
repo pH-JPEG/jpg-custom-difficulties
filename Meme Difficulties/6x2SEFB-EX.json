@@ -1,0 +1,264 @@
+{
+  "Name": "6x2SEFB-EX",
+  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. EX: Many, many sentinels and fire bombers.",
+  "MaxActiveCritters": 40,
+  "MaxActiveSwarmers": [
+    90,
+    120,
+    180,
+    180
+  ],
+  "MaxActiveEnemies": [
+    90,
+    120,
+    180,
+    180
+  ],
+  "ResupplyCost": 40,
+  "StartingNitra": 0,
+  "ExtraLargeEnemyDamageResistance": [
+    1,
+    1.3,
+    1.7,
+    2.1
+  ],
+  "ExtraLargeEnemyDamageResistanceB": [
+    1,
+    1.3,
+    1.5,
+    1.7
+  ],
+  "ExtraLargeEnemyDamageResistanceC": [
+    1,
+    1.3,
+    1.7,
+    2.1
+  ],
+  "ExtraLargeEnemyDamageResistanceD": [
+    1.5,
+    1.55,
+    1.75,
+    1.9
+  ],
+  "EnemyDamageResistance": [
+    1.4,
+    1.5,
+    1.6,
+    1.75
+  ],
+  "SmallEnemyDamageResistance": [
+    1.2,
+    1.2,
+    1.2,
+    1.2
+  ],
+  "EnemyDamageModifier": [
+    3.3,
+    3.65,
+    3.9,
+    4.1
+  ],
+  "EnemyCountModifier": [
+    1.9,
+    2.1,
+    2.7,
+    3.3
+  ],
+  "EncounterDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 550,
+        "max": 650
+      }
+    },
+    {
+      "weight": 6,
+      "range": {
+        "min": 450,
+        "max": 750
+      }
+    },
+    {
+      "weight": 1,
+      "range": {
+        "min": 550,
+        "max": 650
+      }
+    }
+  ],
+  "StationaryDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 350,
+        "max": 450
+      }
+    }
+  ],
+  "EnemyWaveInterval": [
+    {
+      "weight": 7.5,
+      "range": {
+        "min": 125,
+        "max": 165
+      }
+    }
+  ],
+  "EnemyNormalWaveInterval": [
+    {
+      "weight": 4,
+      "range": {
+        "min": 170,
+        "max": 210
+      }
+    },
+    {
+      "weight": 2,
+      "range": {
+        "min": 180,
+        "max": 190
+      }
+    }
+  ],
+  "EnemyNormalWaveDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 550,
+        "max": 650
+      }
+    }
+  ],
+  "EnemyDiversity": [
+    {
+      "weight": 0.25,
+      "range": {
+        "min": 4,
+        "max": 4
+      }
+    },
+    {
+      "weight": 0.45,
+      "range": {
+        "min": 6,
+        "max": 6
+      }
+    },
+    {
+      "weight": 0.3,
+      "range": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  ],
+  "StationaryEnemyDiversity": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 4,
+        "max": 4
+      }
+    }
+  ],
+  "VeteranNormal": [
+    {
+      "weight": 2,
+      "range": {
+        "min": 0.5,
+        "max": 0.8
+      }
+    }
+  ],
+  "VeteranLarge": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 0.2,
+        "max": 0.2
+      }
+    }
+  ],
+  "DisruptiveEnemyPoolCount": {
+    "min": 4,
+    "max": 6
+  },
+  "MinPoolSize": 14,
+  "MaxActiveElites": 0,
+  "EnvironmentalDamageModifier": 1.4,
+  "PointExtractionScalar": 1.4,
+  "HazardBonus": 1.33,
+  "FriendlyFireModifier": 0.9,
+  "WaveStartDelayScale": 0,
+  "SpeedModifier": 1.25,
+  "AttackCooldownModifier": 1.75,
+  "ProjectileSpeedModifier": 1.9,
+  "HealthRegenerationMax": 0.1,
+  "ReviveHealthRatio": 0.1,
+  "EliteCooldown": 0,
+  "EnemyDescriptors": {
+    "ED_Spider_Tank_HeavySpawn": {
+      "Base": "ED_Spider_Tank_HeavySpawn",
+      "DifficultyRating": 10,
+      "Rarity": 3,
+      "SpawnAmountModifier": 1,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 100,
+      "CanBeUsedInConstantPressure": true,
+      "CanBeUsedInEncounters": true,
+      "SpawnSpread": 5000
+    },
+    "ED_Bomber_Explosive": {
+      "Base": "ED_Bomber_Explosive",
+      "DifficultyRating": 15,
+      "Rarity": 3,
+      "SpawnAmountModifier": 1,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 50,
+      "CanBeUsedInConstantPressure": true,
+      "CanBeUsedInEncounters": true
+    },
+    "ED_Spider_Stinger": {
+      "Base": "ED_Spider_Stinger",
+      "PawnStats": {
+        "PST_DamageResistance": 2.2
+      }
+}
+  },
+  "EnemyPool": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "CommonEnemies": {
+    "clear": false,
+    "add": [
+      "ED_Spider_Tank_HeavySpawn",
+      "ED_Bomber_Explosive"
+    ],
+    "remove": []
+  },
+  "SpecialEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "DisruptiveEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "StationaryEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SeasonalEvents": [],
+  "EscortMule": {
+    "FriendlyFireModifier": 0.1,
+    "BigHitDamageModifier": 0.95,
+    "BigHitDamageReductionThreshold": 0,
+    "NeutralDamageModifier": 0.1
+  }
+}
