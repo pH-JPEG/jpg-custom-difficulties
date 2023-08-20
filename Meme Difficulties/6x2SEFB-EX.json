@@ -198,24 +198,30 @@
   "ReviveHealthRatio": 0.1,
   "EliteCooldown": 0,
   "EnemyDescriptors": {
+    "ED_Jelly_Spawn": {
+      "Base": "ED_Bomber_Explosive"
+    },
+    "ED_Spider_Spawn": {
+      "Base": "ED_Spider_Tank_HeavySpawn"
+    },
     "ED_Spider_Tank_HeavySpawn": {
       "Base": "ED_Spider_Tank_HeavySpawn",
-      "DifficultyRating": 10,
+      "DifficultyRating": 5,
       "Rarity": 3,
       "SpawnAmountModifier": 1,
       "MinSpawnCount": 1,
-      "MaxSpawnCount": 100,
+      "MaxSpawnCount": 125,
       "CanBeUsedInConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "SpawnSpread": 5000
     },
     "ED_Bomber_Explosive": {
       "Base": "ED_Bomber_Explosive",
-      "DifficultyRating": 15,
+      "DifficultyRating": 10,
       "Rarity": 3,
       "SpawnAmountModifier": 1,
       "MinSpawnCount": 1,
-      "MaxSpawnCount": 50,
+      "MaxSpawnCount": 75,
       "CanBeUsedInConstantPressure": true,
       "CanBeUsedInEncounters": true
     },
@@ -224,7 +230,7 @@
       "PawnStats": {
         "PST_DamageResistance": 2.2
       }
-}
+    }
   },
   "EnemyPool": {
     "clear": false,
