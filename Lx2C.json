@@ -1,6 +1,6 @@
 {
   "Name": "Lx2C",
-  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Stingtails now take x2.2 damage.",
+  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Swarmer swarms are now Exploder swarms.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     180
@@ -308,7 +308,10 @@
       "SpawnAmountModifier": 1,
       "CanBeUsedInEncounters": true
     },
-    "ED_Spider_Exploder": {
+    "ED_Spider_Swarmer": {
+      "Base": "ED_Spider_Exploder"
+    },
+    "ED_Spider_Exploder_Normal": {
       "Base": "ED_Spider_Exploder",
       "DifficultyRating": 10,
       "Rarity": 5,
@@ -337,7 +340,7 @@
         "PST_DamageResistance": 2
       }
     },
-    "ED_Spider_Swarmer": {
+    "ED_Spider_Swarmer_Normal": {
       "Base": "ED_Spider_Swarmer",
       "Rarity": 5,
       "CanBeUsedForConstantPressure": true,
@@ -452,8 +455,14 @@
   },
   "SpecialEnemies": {
     "clear": false,
-    "add": [],
-    "remove": []
+    "add": [
+      "ED_Spider_Swarmer_Normal",
+      "ED_Spider_Exploder_Normal"
+    ],
+    "remove": [
+      "ED_Spider_Swarmer",
+      "ED_Spider_Exploder"
+    ]
   },
   "DisruptiveEnemies": {
     "clear": false,
