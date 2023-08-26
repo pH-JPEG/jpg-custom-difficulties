@@ -1,6 +1,6 @@
 {
   "Name": "Lx2",
-  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Stingtails now take x2.2 damage.",
+  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Swarmer swarms are now Exploder swarms.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -338,7 +338,10 @@
       "SpawnAmountModifier": 1,
       "CanBeUsedInEncounters": true
     },
-    "ED_Spider_Exploder": {
+    "ED_Spider_Swarmer": {
+      "Base": "ED_Spider_Exploder"
+    },
+    "ED_Spider_Exploder_Normal": {
       "Base": "ED_Spider_Exploder",
       "DifficultyRating": 10,
       "Rarity": 5,
@@ -367,7 +370,7 @@
         "PST_DamageResistance": 2
       }
     },
-    "ED_Spider_Swarmer": {
+    "ED_Spider_Swarmer_Normal": {
       "Base": "ED_Spider_Swarmer",
       "Rarity": 5,
       "CanBeUsedForConstantPressure": true,
@@ -482,8 +485,14 @@
   },
   "SpecialEnemies": {
     "clear": false,
-    "add": [],
-    "remove": []
+    "add": [
+      "ED_Spider_Swarmer_Normal",
+      "ED_Spider_Exploder_Normal"
+    ],
+    "remove": [
+      "ED_Spider_Swarmer",
+      "ED_Spider_Exploder"
+    ]
   },
   "DisruptiveEnemies": {
     "clear": false,
