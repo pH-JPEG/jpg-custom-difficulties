@@ -1,6 +1,6 @@
 {
   "Name": "Lx2 Simple Bug Enhance",
-  "Description": "Lx2 but intended for use with Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance). Nexuses function as intended by Lx2. Latest update: Swarmer swarms are now Exploder swarms.",
+  "Description": "Lx2 but intended for use with Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance). Nexuses function as intended by Lx2. Latest update: Exploders during Exploder swarms are now far more numerous and spawn slightly spread out.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -339,7 +339,11 @@
       "CanBeUsedInEncounters": true
     },
     "ED_Spider_Swarmer": {
-      "Base": "ED_Spider_Exploder"
+      "Base": "ED_Spider_Exploder",
+      "DifficultyRating": 3,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 150,
+      "SpawnSpread": 1000
     },
     "ED_Spider_Exploder_Normal": {
       "Base": "ED_Spider_Exploder",
