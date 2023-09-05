@@ -1,6 +1,6 @@
 {
   "Name": "Lx2C",
-  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Exploders during Exploder swarms are now far more numerous and spawn slightly spread out.",
+  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Swarmer swarms spawn swarmers again.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     180
@@ -308,14 +308,7 @@
       "SpawnAmountModifier": 1,
       "CanBeUsedInEncounters": true
     },
-    "ED_Spider_Swarmer": {
-      "Base": "ED_Spider_Exploder",
-      "DifficultyRating": 3,
-      "MinSpawnCount": 1,
-      "MaxSpawnCount": 150,
-      "SpawnSpread": 1000
-    },
-    "ED_Spider_Exploder_Normal": {
+    "ED_Spider_Exploder": {
       "Base": "ED_Spider_Exploder",
       "DifficultyRating": 10,
       "Rarity": 5,
@@ -344,7 +337,7 @@
         "PST_DamageResistance": 2
       }
     },
-    "ED_Spider_Swarmer_Normal": {
+    "ED_Spider_Swarmer": {
       "Base": "ED_Spider_Swarmer",
       "Rarity": 5,
       "CanBeUsedForConstantPressure": true,
@@ -459,14 +452,8 @@
   },
   "SpecialEnemies": {
     "clear": false,
-    "add": [
-      "ED_Spider_Swarmer_Normal",
-      "ED_Spider_Exploder_Normal"
-    ],
-    "remove": [
-      "ED_Spider_Swarmer",
-      "ED_Spider_Exploder"
-    ]
+    "add": [],
+    "remove": []
   },
   "DisruptiveEnemies": {
     "clear": false,
