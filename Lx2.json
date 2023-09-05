@@ -1,6 +1,6 @@
 {
   "Name": "Lx2",
-  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Exploders during Exploder swarms are now far more numerous and spawn slightly spread out.",
+  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Swarmer swarms spawn swarmers again.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -338,14 +338,7 @@
       "SpawnAmountModifier": 1,
       "CanBeUsedInEncounters": true
     },
-    "ED_Spider_Swarmer": {
-      "Base": "ED_Spider_Exploder",
-      "DifficultyRating": 3,
-      "MinSpawnCount": 1,
-      "MaxSpawnCount": 150,
-      "SpawnSpread": 1000
-    },
-    "ED_Spider_Exploder_Normal": {
+    "ED_Spider_Exploder": {
       "Base": "ED_Spider_Exploder",
       "DifficultyRating": 10,
       "Rarity": 5,
@@ -374,7 +367,7 @@
         "PST_DamageResistance": 2
       }
     },
-    "ED_Spider_Swarmer_Normal": {
+    "ED_Spider_Swarmer": {
       "Base": "ED_Spider_Swarmer",
       "Rarity": 5,
       "CanBeUsedForConstantPressure": true,
@@ -489,14 +482,8 @@
   },
   "SpecialEnemies": {
     "clear": false,
-    "add": [
-      "ED_Spider_Swarmer_Normal",
-      "ED_Spider_Exploder_Normal"
-    ],
-    "remove": [
-      "ED_Spider_Swarmer",
-      "ED_Spider_Exploder"
-    ]
+    "add": [],
+    "remove": []
   },
   "DisruptiveEnemies": {
     "clear": false,
