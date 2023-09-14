@@ -23,6 +23,9 @@ Currently, these difficulties consist of:
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Send%20It!.json)
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced.
   - *Latest update:* Stingtails now take x2.2 damage.
+- [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX.json)
+  - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX%20Features.txt).
+  - *Latest update:* Release version. Grabber Rarity 5.5.
 
 ## [Meme Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Meme%20Difficulties)
 Self-explanatory, these are intentionally dumb ideas meant as jokes. Highly unbalanced and likely unplayable.
