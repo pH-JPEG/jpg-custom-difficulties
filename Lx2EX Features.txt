@@ -1,5 +1,6 @@
 Bad RNG rolls for swarm/wave timers and wave sizes more common.
 Start with 40 nitra and revive with 40% HP compared to 10%. Also autoregen to 40%.
+Enemy caps changed to 90, 180, 240, 240 for 1p to 4p.
 Respawning Breeders more common.
 More Patrol Bots, Grabbers, Wardens, Shellbacks, and Septics that can spawn in a single spawn event.
 Nexuses spawn Slashers
