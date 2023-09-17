@@ -26,9 +26,18 @@ Currently, these difficulties consist of:
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX.json)
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX%20Features.txt).
   - *Latest update:* Release version. Grabber Rarity 5.5.
+- [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX.json)
+  - A harder version of Lx2. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX%20Features.txt).
+  - *Latest update:* Release version.
+  - **Disclaimer:** As this is just Lx2 but even harder, this is more unbalanced. You have been warned.
+  - [Lx2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX%20Simple%20Bug%20Enhance.json): Lx2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this with version without Simple Bug Enhance.
+  - [Lx2EX Carry (Lx2EX-C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX-C.json): Lx2EX always scaled to 4 players independent of current player amount.
 
 ## [Meme Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Meme%20Difficulties)
 Self-explanatory, these are intentionally dumb ideas meant as jokes. Highly unbalanced and likely unplayable.
 
 ## [Lx2 Alpha and Beta Versions](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Lx2%20Alpha%20and%20Beta%20Versions)
 All of the various versions Lx2 existed as before its final version.
+
+## [Lx2EX Alpha and Beta Versions](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Lx2EX%20Alpha%20and%20Beta%20Versions)
+All of the various versions Lx2EX existed as before its final version.
