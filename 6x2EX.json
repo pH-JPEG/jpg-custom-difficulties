@@ -1,6 +1,6 @@
 {
   "Name": "6x2EX",
-  "Description": "A 6x2-based, more fair version of Lx2. Latest change: Release version. Grabber Rarity 5.5.",
+  "Description": "A 6x2-based, more fair version of Lx2. Latest change: On 4p scaling, ignited Nexuses die to one x1 dmg x1 ammo VB shot to the weakpoint. Dotty resist 80%->75%. ",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -223,7 +223,10 @@
       "DifficultyRating": 100
     },
     "ED_SpiderSpawner": {
-      "Base": "ED_SpiderSpawner"
+      "Base": "ED_SpiderSpawner",
+ "PawnStats": {
+        "PST_DamageResistance": 2.303
+      }
     },
     "ED_EggSpider": {
       "Base": "ED_Spider_Grunt"
@@ -433,7 +436,7 @@
   "SeasonalEvents": [],
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
-    "BigHitDamageModifier": 0.8,
+    "BigHitDamageModifier": 0.75,
     "BigHitDamageReductionThreshold": 0,
     "NeutralDamageModifier": 0.1
   }
