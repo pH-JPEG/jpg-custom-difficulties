@@ -35,6 +35,7 @@ Currently, these difficulties consist of:
   - [Lx2EX Carry (Lx2EX-C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX-C.json): Lx2EX always scaled to 4 players independent of current player amount.
 - [6x2LX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2LX.json)
   - 6x2EX, but with 4 features from Lx2EX. Additions are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2LX%20Features.txt).
+  - *Latest update:* Release version.
   - [6x2LX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2LX%20Simple%20Bug%20Enhance.json): 6x2LX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 
 ## [Meme Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Meme%20Difficulties)
