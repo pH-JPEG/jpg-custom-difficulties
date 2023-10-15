@@ -25,7 +25,7 @@ Currently, these difficulties consist of:
   - *Latest update:* Stingtails now take x2.2 damage.
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX.json)
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX%20Features.txt).
-  - *Latest update:* Release version. Grabber Rarity 5.5.
+  - *Latest update:* On 4p scaling, ignited Nexuses die to one x1 dmg x1 ammo VB shot to the weakpoint. Dotty resist 80%->75%.
   - [6x2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/6x2EX%20Simple%20Bug%20Enhance.json): 6x2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX.json)
   - A harder version of Lx2. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Lx2EX%20Features.txt).
