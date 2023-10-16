@@ -8,7 +8,7 @@ Currently, these difficulties consist of:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2B.json)
   - 6x2, but Breeders can respawn. They also spawn Shockers.
   - *Latest update:* Stingtails now take x2.2 damage. 
-- 6x2 w/ Sentinels and Fire Bombers (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json), [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json), and [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json) denoting version)
+- [6x2 w/ Sentinels and Fire Bombers](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Main%20Difficulties/6x2SEFB) (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json), [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json), and [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json) denoting version)
   - 6x2, but Sentinels and Fire Bombers can spawn in missions.
   - [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json): The original release version.
   - [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json): The current recommended version that reduces amount of Sentinels and increases Fire Bomber amounts.
