@@ -1,5 +1,0 @@
-In addition to 6x2EX, 6x2LX has:
--Weak, fast Bulks that appear x1.5 larger and move at x3 speed, but take x5.1 damage.
--A weak, fast Nemesis with the health of a Mactera Spawn.
--Weak Dreadnought Twins that have the health of a Menace.
--Radioactive Praetorians spawning in all biomes.
