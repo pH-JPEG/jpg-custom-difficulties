@@ -13,7 +13,7 @@ Currently, these difficulties consist of:
   - [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json): The original release version.
   - [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json): The current recommended version that reduces amount of Sentinels and increases Fire Bomber amounts.
   - [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json): Based on version rc4. Stalkers can now spawn in missions.
-  - *Latest update:* For versions SK and rc4, 0-weight bins have been removed. Min and Max values for EnemyDiversity have been adjusted. Bin that spawned 0% veterans in VeteranNormal removed.
+  - *Latest update:* Version SK: Typo fixed in DifficultyRating of Stalkers.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2.json)
   - Where the cave madness began. Difficulty created for difficulty's sake, balance be damned. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Features.txt).
   - *Latest update:* Swarmer swarms spawn swarmers again.
