@@ -1,0 +1,230 @@
+{
+  "Name": "Clearing House_a03",
+  "Description": "Based on 6x2. x4 the stationaries with no other bugs and swarms, but a Ghost Bulk will spawn in at a set interval. Nexuses spawn Grunts, Swarmer Tunnels spawn Exploders, and Breeders spawn Mactera. Start with 40 nitra. a03: StationaryDifficulty significantly increased. Ghost Bulk x2.5 speed.",
+  "MaxActiveCritters": 40,
+  "MaxActiveSwarmers": [
+    90,
+    120,
+    180,
+    180
+  ],
+  "MaxActiveEnemies": [
+    90,
+    120,
+    180,
+    180
+  ],
+  "ResupplyCost": 40,
+  "StartingNitra": 40,
+  "ExtraLargeEnemyDamageResistance": [
+    1,
+    1.3,
+    1.7,
+    2.1
+  ],
+  "ExtraLargeEnemyDamageResistanceB": [
+    1,
+    1.3,
+    1.5,
+    1.7
+  ],
+  "ExtraLargeEnemyDamageResistanceC": [
+    1,
+    1.3,
+    1.7,
+    2.1
+  ],
+  "ExtraLargeEnemyDamageResistanceD": [
+    1.5,
+    1.55,
+    1.75,
+    1.9
+  ],
+  "EnemyDamageResistance": [
+    1.4,
+    1.5,
+    1.6,
+    1.75
+  ],
+  "SmallEnemyDamageResistance": [
+    1.2,
+    1.2,
+    1.2,
+    1.2
+  ],
+  "EnemyDamageModifier": [
+    3.3,
+    3.65,
+    3.9,
+    4.1
+  ],
+  "EnemyCountModifier": [
+    1.9,
+    2.1,
+    2.7,
+    3.3
+  ],
+  "EncounterDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 0,
+        "max": 0
+      }
+    }
+  ],
+  "StationaryDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 5000,
+        "max": 5000
+      }
+    }
+  ],
+  "EnemyWaveInterval": [
+    {
+      "weight": 7.5,
+      "range": {
+        "min": 9999999,
+        "max": 9999999
+      }
+    }
+  ],
+  "EnemyNormalWaveInterval": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 90,
+        "max": 90
+      }
+    }
+  ],
+  "EnemyNormalWaveDifficulty": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "EnemyDiversity": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "StationaryEnemyDiversity": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 4,
+        "max": 4
+      }
+    }
+  ],
+  "VeteranNormal": [
+    {
+      "weight": 2,
+      "range": {
+        "min": 0.5,
+        "max": 0.8
+      }
+    }
+  ],
+  "VeteranLarge": [
+    {
+      "weight": 1,
+      "range": {
+        "min": 0.2,
+        "max": 0.2
+      }
+    }
+  ],
+  "DisruptiveEnemyPoolCount": {
+    "min": 4,
+    "max": 7
+  },
+  "MinPoolSize": 13,
+  "MaxActiveElites": 0,
+  "EnvironmentalDamageModifier": 1.4,
+  "PointExtractionScalar": 1.4,
+  "HazardBonus": 1.33,
+  "FriendlyFireModifier": 0.9,
+  "WaveStartDelayScale": 0,
+  "SpeedModifier": 1.25,
+  "AttackCooldownModifier": 1.75,
+  "ProjectileSpeedModifier": 1.9,
+  "HealthRegenerationMax": 0.1,
+  "ReviveHealthRatio": 0.1,
+  "EliteCooldown": 0,
+  "EnemyDescriptors": {
+    "ED_Spider_ExploderTankGhost": {
+      "Base": "ED_Spider_ExploderTankGhost",
+      "DifficultyRating": 1,
+      "Rarity": 1,
+      "MinSpawnCount": 1,
+      "MaxSpawnCount": 0,
+      "CanBeUsedInEncounters": false,
+      "CanBeUsedForConstantPressure": true,
+      "SpawnAmountModifier": 1,
+      "SpawnSpread": 10000,
+      "TimeDilation": 1.5,
+      "PawnStats": {
+        "PST_MovementSpeed": 2.5,
+        "PST_DamageResistance": 100000000
+      }
+    },
+    "ED_CaveLeech": {
+      "Base": "ED_CaveLeech",
+      "TimeDilation": 1.35
+    },
+    "ED_Spider_Spawn": {
+      "Base": "ED_Spider_Grunt"
+    },
+    "ED_TunnelSwarmer": {
+      "Base": "ED_Spider_Exploder"
+    },
+    "ED_Jelly_Spawn": {
+      "Base": "ED_Mactera_Shooter_Normal"
+    }
+  },
+  "EnemyPool": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "CommonEnemies": {
+    "clear": true,
+    "add": [
+      "ED_Spider_ExploderTankGhost"
+    ],
+    "remove": []
+  },
+  "SpecialEnemies": {
+    "clear": true,
+    "add": [],
+    "remove": []
+  },
+  "DisruptiveEnemies": {
+    "clear": true,
+    "add": [],
+    "remove": []
+  },
+  "StationaryEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SeasonalEvents": [],
+  "EscortMule": {
+    "FriendlyFireModifier": 0.1,
+    "BigHitDamageModifier": 0.75,
+    "BigHitDamageReductionThreshold": 0,
+    "NeutralDamageModifier": 0.1
+  }
+}
