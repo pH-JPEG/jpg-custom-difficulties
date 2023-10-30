@@ -504,12 +504,6 @@
       "MaxSpawnCount": 100,
       "SpawnAmountModifier": 1
     },
-    "ED_PumpkinLootbug": {
-      "Base": "ED_Spider_Boss_TwinA",
-      "PawnStats": {
-        "PST_DamageResistance": 7.45
-      }
-    },
     "ED_Spider_Boss_TwinA_Weak": {
       "Base": "ED_Spider_Boss_TwinA",
       "DifficultyRating": 100,

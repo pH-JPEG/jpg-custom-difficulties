@@ -462,12 +462,6 @@
       "PawnStats": {
         "PST_DamageResistance": 2.2
       }
-    },
-    "ED_PumpkinLootbug": {
-      "Base": "ED_Spider_Boss_TwinA",
-      "PawnStats": {
-        "PST_DamageResistance": 7.45
-      }
     }
   },
   "EnemyPool": {
