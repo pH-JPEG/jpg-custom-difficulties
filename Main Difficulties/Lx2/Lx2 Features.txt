@@ -1,6 +1,5 @@
 Resup cost of 40 nitra
 Hazard 6 hp scaling, but Hazard 7 damage, speed, and wave timers. EnemyCountModifier is based off of Hazard 7x2.
-Dotty damage resistance amped to 85% from standard 75% in 6x2, 7x2, and 6x2 Diablo.
 High enemy diversity in waves, it’s likely you’ll see most bugs in the game in a single mission
 Frequent disruptives
 Sentinels, Fire Bombers, Patrol Bots, Shredders, and Stalkers spawn during waves
@@ -15,3 +14,4 @@ High veteran chance so grunts/mactera can promote frequently (Praetorian to Oppr
 Low chance for a large wave of bugs to spawn
 Waves can sometimes have low enemy diversity
 Stingtails take x2.2 damage
+Nexuses take x2.303 damage

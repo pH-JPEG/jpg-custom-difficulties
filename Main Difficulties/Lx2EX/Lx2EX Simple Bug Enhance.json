@@ -1,6 +1,6 @@
 {
   "Name": "Lx2EX Simple Bug Enhance",
-  "Description": "Lx2EX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest update: Release version.",
+  "Description": "Lx2EX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest update: Nexuses now take x2.303 damage. Dotty resist 95%->75%.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -312,7 +312,10 @@
     },
     "ED_SpiderSpawner": {
       "Base": "ED_SpiderSpawner",
-      "DifficultyRating": 120
+      "DifficultyRating": 120,
+      "PawnStats": {
+        "PST_DamageResistance": 2.303
+      }
     },
     "ED_Spider_Grunt": {
       "Base": "ED_Spider_Grunt",
@@ -752,7 +755,7 @@
   "SeasonalEvents": [],
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
-    "BigHitDamageModifier": 0.95,
+    "BigHitDamageModifier": 0.75,
     "BigHitDamageReductionThreshold": 0,
     "NeutralDamageModifier": 0.1
   }

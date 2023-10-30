@@ -1,6 +1,6 @@
 {
   "Name": "Lx2C",
-  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Swarmer swarms spawn swarmers again.",
+  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Nexuses now take x2.303 damage. Dotty resist 85%->75%.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     180
@@ -259,7 +259,10 @@
       "DifficultyRating": 75
     },
     "ED_SpiderSpawner": {
-      "Base": "ED_SpiderSpawner"
+      "Base": "ED_SpiderSpawner",
+      "PawnStats": {
+        "PST_DamageResistance": 2.303
+      }
     },
     "ED_Spider_Grunt": {
       "Base": "ED_Spider_Grunt",
@@ -471,7 +474,7 @@
   "SeasonalEvents": [],
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
-    "BigHitDamageModifier": 0.85,
+    "BigHitDamageModifier": 0.75,
     "BigHitDamageReductionThreshold": 0,
     "NeutralDamageModifier": 0.1
   }

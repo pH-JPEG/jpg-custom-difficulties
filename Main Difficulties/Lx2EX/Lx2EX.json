@@ -1,6 +1,6 @@
 {
   "Name": "Lx2EX",
-  "Description": "Lunatic-Extra. Cave madness is all you've seen lately. Latest update: Release version.",
+  "Description": "Lunatic-Extra. Cave madness is all you've seen lately. Latest update: Nexuses now take x2.303 damage. Dotty resist 95%->75%.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -312,7 +312,10 @@
     },
     "ED_SpiderSpawner": {
       "Base": "ED_SpiderSpawner",
-      "DifficultyRating": 120
+      "DifficultyRating": 120,
+      "PawnStats": {
+        "PST_DamageResistance": 2.303
+      }
     },
     "ED_Spider_Grunt": {
       "Base": "ED_Spider_Grunt",
@@ -500,6 +503,12 @@
       "MinSpawnCount": 10,
       "MaxSpawnCount": 100,
       "SpawnAmountModifier": 1
+    },
+    "ED_PumpkinLootbug": {
+      "Base": "ED_Spider_Boss_TwinA",
+      "PawnStats": {
+        "PST_DamageResistance": 7.45
+      }
     },
     "ED_Spider_Boss_TwinA_Weak": {
       "Base": "ED_Spider_Boss_TwinA",
@@ -752,7 +761,7 @@
   "SeasonalEvents": [],
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
-    "BigHitDamageModifier": 0.95,
+    "BigHitDamageModifier": 0.75,
     "BigHitDamageReductionThreshold": 0,
     "NeutralDamageModifier": 0.1
   }

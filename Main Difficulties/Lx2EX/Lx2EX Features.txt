@@ -12,7 +12,6 @@ Very Rare Rockpox Breeders spawn in and spawn Septics. These take double damage 
 Grabbers and Bulks move x1.5 faster
 Leeches grab at x2 speed
 Exploders move x1.5 faster
-Dotty resist 95%
 Large, fast Bulks that move at x5 speed but take x5.1 damage (has about 1000 hp on p4 scaling)
 Weak Nemesis that sacs into dwarves to spam bombs everywhere (has Mactera Spawn HP)
 God Sentinel with x3 HP
