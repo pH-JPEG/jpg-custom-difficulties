@@ -16,12 +16,12 @@ Currently, these difficulties consist of:
   - *Latest update:* Version SK: Typo fixed in DifficultyRating of Stalkers.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2.json)
   - Where the cave madness began. Difficulty created for difficulty's sake, balance be damned. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Features.txt).
-  - *Latest update:* Nexuses now take x2.303 damage. Dotty resist 85%->75%..
+  - *Latest update:* Nexuses now take x2.303 damage. Dotty resist 85%->75%.
   - **Disclaimer:** From an objective game design perspective, Lx2 is incredibly unbalanced. It is extremely punishing of any mistakes and highly RNG-based, with certain mission and biome combinations becoming near impossible from the start due to cave generation, encounter/stationary spawns, and nitra spawns. Build diversity no longer exists with degenerate strategies showing up more frequently. Don't expect to win even with highly experienced players. Overall, it is a major departure from 6x2 and should not be used as a metric for balancing difficulties or weapon balance discussions. That said, this difficulty is made for those who find extreme variance and occasional outright BS enjoyable while pushing their patience and the vanilla game weapons to the limit.
   - [Lx2 Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Simple%20Bug%20Enhance.json): Lx2 intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). You start with a resupply. Don't use this version without Simple Bug Enhance.
   - [Lx2 Carry (Lx2C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2C.json): Lx2 always scaled to 4 players independent of current player amount.
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Send%20It!.json)
-  - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced.
+  - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. Play on only Mining, Egg, Salvage, and Refinery missions, unless you have mods that allow Send It to be compatible/more enjoyable with Elimination, Escort, Point Extraction and Sabotage. 
   - *Latest update:* Stingtails now take x2.2 damage.
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json)
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Features.txt).
@@ -29,7 +29,7 @@ Currently, these difficulties consist of:
   - [6x2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Simple%20Bug%20Enhance.json): 6x2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX.json)
   - A harder version of Lx2. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Features.txt).
-  - *Latest update:* Nexuses now take x2.303 damage. Dotty resist 95%->75%..
+  - *Latest update:* Nexuses now take x2.303 damage. Dotty resist 95%->75%.
   - **Disclaimer:** As this is just Lx2 but even harder, this is more unbalanced. You have been warned.
   - [Lx2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Simple%20Bug%20Enhance.json): Lx2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
   - [Lx2EX Carry (Lx2EX-C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX-C.json): Lx2EX always scaled to 4 players independent of current player amount.
