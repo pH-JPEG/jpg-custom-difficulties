@@ -1,6 +1,6 @@
 {
   "Name": "Lx2EX",
-  "Description": "Lunatic-Extra. Cave madness is all you've seen lately. Latest update: Nexuses now take x2.303 damage. Dotty resist 95%->75%.",
+  "Description": "Lunatic-Extra. Cave madness is all you've seen lately. Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -619,7 +619,7 @@
       "CanBeUsedInEncounters": true,
       "Scale": 1,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     },
     "ED_JellyBreeder_RockpoxPlague": {

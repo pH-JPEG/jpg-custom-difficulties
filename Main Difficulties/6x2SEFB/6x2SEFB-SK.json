@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB-SK",
-  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Stingtails also take x2.2 damage. Latest update: Removed useless 0-weight bins throughout the file and fixed Min and Max values for EnemyDiversity. Removed bin of 0% veterans in VeteranNormal.",
+  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -208,7 +208,7 @@
     "ED_Spider_Stinger": {
       "Base": "ED_Spider_Stinger",
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     },
     "ED_Spider_Stalker": {

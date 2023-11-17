@@ -1,6 +1,6 @@
 {
   "Name": "Send It!",
-  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: Stingtails take x2.2 damage.",
+  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 90,
   "MaxActiveSwarmers": 120,
   "MaxActiveEnemies": 120,
@@ -177,7 +177,7 @@
     "ED_Spider_Stinger": {
       "Base": "ED_Spider_Stinger",
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }    
 }
   },

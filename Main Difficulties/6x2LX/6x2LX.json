@@ -1,6 +1,6 @@
 {
   "Name": "6x2LX",
-  "Description": "6x2EX but with 4 Lx2EX features. Latest change: Release version.",
+  "Description": "6x2EX but with 4 Lx2EX features. Latest change: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -413,7 +413,7 @@
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     },
     "ED_Spider_Tank_Mutated_Global": {

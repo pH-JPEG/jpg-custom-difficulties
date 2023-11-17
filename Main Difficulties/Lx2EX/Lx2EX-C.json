@@ -1,6 +1,6 @@
 {
   "Name": "Lx2EX-C",
-  "Description": "Lx2EX Carry. Please only use this for testing. Latest update: Nexuses now take x2.303 damage. Dotty resist 95%->75%.",
+  "Description": "Lx2EX Carry. Please only use this for testing. Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     240
@@ -589,7 +589,7 @@
       "CanBeUsedInEncounters": true,
       "Scale": 1,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     },
     "ED_JellyBreeder_RockpoxPlague": {

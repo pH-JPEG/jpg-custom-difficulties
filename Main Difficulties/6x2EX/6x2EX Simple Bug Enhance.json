@@ -1,6 +1,6 @@
 {
   "Name": "6x2EX Simple Bug Enhance",
-  "Description": "6x2EX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest change: On 4p scaling, ignited Nexuses die to one x1 dmg x1 ammo VB shot to the weakpoint. Dotty resist 80%->75%.",
+  "Description": "6x2EX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest change: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -398,7 +398,7 @@
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     }
   },

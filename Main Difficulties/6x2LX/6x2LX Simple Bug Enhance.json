@@ -1,6 +1,6 @@
 {
   "Name": "6x2LX Simple Bug Enhance",
-  "Description": "6x2LX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest change: Release version.",
+  "Description": "6x2LX compatible with the mod Simple Bug Enhance (https://mod.io/g/drg/m/simple-bug-enhance), allowing Nexuses to work as intended. Do not use without Simple Bug Enhance. Latest change: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -413,7 +413,7 @@
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     },
     "ED_Spider_Tank_Mutated_Global": {
