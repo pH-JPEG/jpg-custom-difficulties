@@ -38,6 +38,9 @@ Currently, these difficulties consist of:
   - *Latest update:* Stingtails take x1 damage.
   - [6x2LX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Simple%20Bug%20Enhance.json): 6x2LX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 
+## [WIP Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/WIP%20Difficulties)
+Difficulties that are currently being tested. All versions will be uploaded to the corresponding difficulty's folder. Upon completion, all pre-release versions will be moved to the Alpha/Beta Versions folder.
+
 ## [Meme Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Meme%20Difficulties)
 Self-explanatory, these are intentionally dumb ideas meant as jokes. Highly unbalanced and likely unplayable.
 
