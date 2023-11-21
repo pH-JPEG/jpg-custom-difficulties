@@ -1,6 +1,6 @@
 {
   "Name": "Lx2C",
-  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Nexuses now take x2.303 damage. Dotty resist 85%->75%.",
+  "Description": "Lx2 Carry for testing purposes. All values are scaled to 4 players regardless of current player amount. If you're trying to true solo this, why? Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     180
@@ -430,7 +430,7 @@
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     }
   },

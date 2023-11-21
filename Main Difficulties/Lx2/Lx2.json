@@ -1,6 +1,6 @@
 {
   "Name": "Lx2",
-  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Nexuses now take x2.303 damage. Dotty resist 85%->75%.",
+  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Stingtails take x1 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -460,7 +460,7 @@
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "PawnStats": {
-        "PST_DamageResistance": 2.2
+        "PST_DamageResistance": 1
       }
     }
   },
