@@ -1,6 +1,6 @@
 {
   "Name": "Send It! Type R_a04",
-  "Description": "Combination of Send It and 6x2EX: a04: EncounterDifficulty 325-375 -> 150-175, StationaryDifficulty 250-325 -> 125-150, EnemyNormalWaveDifficulty 400-500 -> 200. EnemyNormalWaveInterval 90% bin: 45->30.",
+  "Description": "Combination of Send It and 6x2EX: a04: EncounterDifficulty 325-375 -> 150-175, StationaryDifficulty 250-325 -> 125-150, EnemyNormalWaveDifficulty 400-500 -> 200. EnemyNormalWaveInterval 90% bin: 45->30. Nexuses take x2.303 damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -223,7 +223,10 @@
       "DifficultyRating": 100
     },
     "ED_SpiderSpawner": {
-      "Base": "ED_SpiderSpawner"
+      "Base": "ED_SpiderSpawner",
+      "PawnStats": {
+        "PST_DamageResistance": 2.303
+      }
     },
     "ED_EggSpider": {
       "Base": "ED_Spider_Grunt"
