@@ -7,13 +7,13 @@ These are the "high-effort" difficulties I've created, intended to be another wa
 Currently, these difficulties consist of:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2B.json)
   - 6x2, but Breeders can respawn. They also spawn Shockers.
-  - *Latest update:* Stingtails take x1 damage. 
+  - *Latest update:* MinPoolSize 13->15. 
 - [6x2 w/ Sentinels and Fire Bombers](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Main%20Difficulties/6x2SEFB) (6x2SEFB, with [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json), [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json), and [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json) denoting version)
   - 6x2, but Sentinels and Fire Bombers can spawn in missions.
   - [rc1](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc1.json): The original release version.
   - [rc4](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB_rc4.json): The current recommended version that reduces amount of Sentinels and increases Fire Bomber amounts.
   - [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json): Based on version rc4. Stalkers can now spawn in missions.
-  - *Latest update:* All versions: Stingtails take x1 damage.
+  - *Latest update:* rc1, rc4: MinPoolSize 13->16. SK: MinPoolSize 16->17.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2.json)
   - Where the cave madness began. Difficulty created for difficulty's sake, balance be damned. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Features.txt).
   - *Latest update:* Stingtails take x1 damage.
@@ -22,7 +22,7 @@ Currently, these difficulties consist of:
   - [Lx2 Carry (Lx2C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2C.json): Lx2 always scaled to 4 players independent of current player amount.
 - [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Send%20It!.json)
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. Play on only Mining, Egg, Salvage, and Refinery missions, unless you have mods that allow Send It to be compatible/more enjoyable with Elimination, Escort, Point Extraction and Sabotage. 
-  - *Latest update:* Stingtails take x1 damage.
+  - *Latest update:* MinPoolSize 13->14.
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json)
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Features.txt).
   - *Latest update:* Stingtails take x1 damage.
