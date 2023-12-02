@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB-SK",
-  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Latest update: Stingtails take x1 damage.",
+  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Latest update: MinPoolSize 16->17.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -170,7 +170,7 @@
     "min": 4,
     "max": 7
   },
-  "MinPoolSize": 16,
+  "MinPoolSize": 17,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,
