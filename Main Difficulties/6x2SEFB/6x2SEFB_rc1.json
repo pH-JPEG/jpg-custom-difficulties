@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB_rc1",
-  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. Sentinels are in the CommonPool and Fire Bombers in the SpecialPool. rc1: First release version of 6x2SEFB, taken from a8. Latest update: Stingtails take x1 damage.",
+  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. Sentinels are in the CommonPool and Fire Bombers in the SpecialPool. rc1: First release version of 6x2SEFB, taken from a8. Latest update: MinPoolSize 13->16.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -233,7 +233,7 @@
     "min": 4,
     "max": 7
   },
-  "MinPoolSize": 13,
+  "MinPoolSize": 16,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,
