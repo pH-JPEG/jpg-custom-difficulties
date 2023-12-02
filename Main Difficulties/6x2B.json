@@ -1,6 +1,6 @@
 {
   "Name": "6x2B",
-  "Description": "6x2, but there's more breeders. They also spawn shockers now. Latest update: Stingtails take x1 damage.",
+  "Description": "6x2, but there's more breeders. They also spawn shockers now. Latest update: MinPoolSize 13->15.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -219,7 +219,7 @@
     "min": 4,
     "max": 7
   },
-  "MinPoolSize": 13,
+  "MinPoolSize": 15,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,
