@@ -1,6 +1,6 @@
 {
   "Name": "Send It!",
-  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: Stingtails take x1 damage.",
+  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: MinPoolSize 13->14.",
   "MaxActiveCritters": 90,
   "MaxActiveSwarmers": 120,
   "MaxActiveEnemies": 120,
@@ -160,7 +160,7 @@
     "min": 4,
     "max": 7
   },
-  "MinPoolSize": 13,
+  "MinPoolSize": 14,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,
