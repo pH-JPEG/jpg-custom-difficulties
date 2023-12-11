@@ -595,7 +595,8 @@
       "ED_Jelly_Swarmer",
       "ED_Spider_Stalker",
       "ED_Spider_Grunt_Guard_Elite",
-      "ED_JellyBreeder_RockpoxPlague"
+      "ED_JellyBreeder_RockpoxPlague",
+      "ED_Spider_Boss_TwinA_Weak"
     ],
     "remove": []
   },
