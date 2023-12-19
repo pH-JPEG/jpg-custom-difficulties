@@ -1,6 +1,6 @@
 {
   "Name": "Lx2ND_a20",
-  "Description": "REQUIRES MEV. A clean, 'purer' version of Lx2EX that removes all the new descriptors. Only number changes to existing descriptors in Lx2 remain. a20: Melee Tentacles removed. StationaryEnemyDiversity 6->5. Sprout Rarity 1->3. Sprout MaxSpawnCount 9999->3, SpawnAmountModifier 1->0.5.",
+  "Description": "REQUIRES MEV. A clean, 'purer' version of Lx2EX that removes all the new descriptors. Only number changes to existing descriptors in Lx2 remain. a20: Melee Tentacles removed. StationaryEnemyDiversity 6->5. Sprout Rarity 1->3, SpawnAmountModifier 1->0.5.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -606,7 +606,7 @@
       "Base": "ED_Sprout_Normal",
       "DifficultyRating": 80,
       "MinSpawnCount": 1,
-      "MaxSpawnCount": 3,
+      "MaxSpawnCount": 9999,
       "Rarity": 3,
       "CanBeUsedInEncounters": true,
       "CanBeUsedForConstantPressure": false,
