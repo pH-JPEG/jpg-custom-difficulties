@@ -1,6 +1,6 @@
 {
   "Name": "Lx2ND",
-  "Description": "REQUIRES MEV. The relatively fair successor to Lx2 and Lx2EX. Serves as my first main difficulty with MEV. Latest version: Release version.",
+  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Release version.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
