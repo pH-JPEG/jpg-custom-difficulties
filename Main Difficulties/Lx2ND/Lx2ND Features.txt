@@ -10,6 +10,7 @@ Changes/Features:
 - The average EnemyDiversity of a spawn event is lower. The "reasonable" (range of 4-6) EnemyDiversity roll is more commmon (30%->40%) while the "superdiversity" roll (high EnemyDiversity roll) is less common while having a lower minimum and maximum. Superdiversity chance reduced from 33% to 23% and the range reduced from 9-12 to 7-10. The low EnemyDiversity rolls have not been changed in minimum/maximum nor chance.
 - StationaryEnemyDiversity increased (4->6).
 - FriendlyFire modifier is increased (90%->110%).
+- Sentinels have a lower MaxSpawnCount (50->30).
 - Shredders have a higher Rarity. (5.125->5.375).
 - MEV-based Change: Nexuses spawn white Slashers. These Slashers take x2.691 damage from all sources. This is about 66 HP.
 - The Grunt Ratio continued: For comparison, Grunts in Lx2ND have a Rarity of 1 and DifficultyRating of 10 while Grunts in Lx2EX have a Rarity of 3.5 and DifficultyRating of 3. Grunts are more frequent in Lx2ND, but they also aren't guaranteed to spawn in massive clumps.
