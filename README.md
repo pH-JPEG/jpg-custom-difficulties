@@ -24,8 +24,9 @@ Currently, these difficulties consist of:
   - Takes 6x2, removes timed swarms, and causes waves of bugs to spawn frequently. Encounter and Stationary spawns are reduced. Play on only Mining, Egg, Salvage, and Refinery missions, unless you have mods that allow Send It to be compatible/more enjoyable with Elimination, Escort, Point Extraction and Sabotage. 
   - *Latest update:* MinPoolSize 13->14.
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json)
+  - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a 6x2EX lobby without downloading MEV.
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Features.txt).
-  - *Latest update:* Stingtails take x1 damage.
+  - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
   - [6x2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Simple%20Bug%20Enhance.json): 6x2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX.json)
   - A harder version of Lx2. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Features.txt).
@@ -34,8 +35,9 @@ Currently, these difficulties consist of:
   - [Lx2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Simple%20Bug%20Enhance.json): Lx2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
   - [Lx2EX Carry (Lx2EX-C)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX-C.json): Lx2EX always scaled to 4 players independent of current player amount.
 - [6x2LX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX.json)
+  - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a 6x2LX lobby without downloading MEV.
   - 6x2EX, but with 4 features from Lx2EX. Additions are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Features.txt).
-  - *Latest update:* Stingtails take x1 damage.
+  - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
   - [6x2LX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Simple%20Bug%20Enhance.json): 6x2LX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lx2ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND.json)
   - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a Lx2ND lobby without downloading MEV.
