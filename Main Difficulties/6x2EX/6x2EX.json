@@ -1,6 +1,6 @@
 {
   "Name": "6x2EX",
-  "Description": "A 6x2-based, more fair version of Lx2. Latest change: Stingtails take x1 damage.",
+  "Description": "REQUIRES MEV. A 6x2-based, more fair version of Lx2. Latest change: Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -215,7 +215,7 @@
       "CanBeUsedInEncounters": true
     },
     "ED_Spider_Spawn": {
-      "Base": "ED_Spider_Grunt"
+      "Base": "ED_Spider_Grunt_white"
     },
     "ED_CaveLeech": {
       "Base": "ED_CaveLeech",
@@ -224,19 +224,19 @@
     },
     "ED_SpiderSpawner": {
       "Base": "ED_SpiderSpawner",
- "PawnStats": {
+      "PawnStats": {
         "PST_DamageResistance": 2.303
       }
     },
     "ED_EggSpider": {
-      "Base": "ED_Spider_Grunt"
+      "Base": "ED_Spider_Grunt_white"
     },
     "ED_TunnelSwarmer": {
-      "Base": "ED_Spider_Grunt"
+      "Base": "ED_Spider_Grunt_white"
     },
     "ED_Spider_Grunt": {
       "Base": "ED_Spider_Grunt",
-      "Rarity": 3,
+      "Rarity": 1.5,
       "DifficultyRating": 2.5,
       "MaxSpawnCount": 120,
       "SpawnAmountModifier": 0.25,
