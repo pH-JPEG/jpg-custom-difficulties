@@ -2,7 +2,7 @@
 json files of difficulties that I have created for the Deep Rock Galactic mod [Custom Difficulty](https://mod.io/g/drg/m/custom-difficulty).
 
 ## [Main Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Main%20Difficulties)
-These are the "high-effort" difficulties I've created, intended to be another way to enjoy a (mostly) 6x2-esque experience in modded DRG. The list is chronological with more recent difficulties at the bottom.
+These are the "high-effort" difficulties I've created, intended to be another way to enjoy a (mostly) 6x2-esque experience in modded DRG. The list is chronological with more recently released difficulties at the bottom.
 
 Currently, these difficulties consist of:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2B.json)
