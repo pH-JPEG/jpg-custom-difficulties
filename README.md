@@ -42,7 +42,7 @@ Currently, these difficulties consist of:
 - [Lx2ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND.json)
   - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a Lx2ND lobby without downloading MEV.
   - The relatively more fair and polished successor to Lx2 and Lx2EX which serves as an initial experiment with MEV. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND%20Features.txt).
-  - *Latest update:* Release version.
+  - *Latest update:* Turbo Menace is now its own MEV enemy with a new model, modified base HP, and no longer uses TimeDilation. Exploders from Breeders and Swarmer Eggs are now white.
 
 ## [WIP Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/WIP%20Difficulties)
 Difficulties that are currently being tested. All versions will be uploaded to the corresponding difficulty's folder. Upon completion, all pre-release versions will be moved to the Alpha/Beta Versions folder.
