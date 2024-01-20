@@ -1,6 +1,6 @@
 {
   "Name": "Lx2ND",
-  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Release version.",
+  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Turbo Menace is now its own MEV enemy with a new model, modified base HP, and no longer uses TimeDilation. Exploders from Breeders and Swarmer Eggs are now white.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -357,7 +357,7 @@
       "CanBeUsedInEncounters": true
     },
     "ED_EggSpider": {
-      "Base": "ED_Spider_Exploder",
+      "Base": "ED_Spider_Exploder_white",
       "PawnStats": {
         "PST_MovementSpeed": 0.75
       }
@@ -370,7 +370,7 @@
       }
     },
     "ED_Jelly_Spawn": {
-      "Base": "ED_Spider_Exploder",
+      "Base": "ED_Spider_Exploder_white",
       "PawnStats": {
         "PST_MovementSpeed": 0.75
       }
@@ -554,19 +554,15 @@
         "PST_DamageResistance": 1.396
       }
     },
-    "ED_Spider_RapidShooter_white": {
-      "Base": "ED_Spider_RapidShooter_white",
+    "ED_Spider_RapidShooter_Turbo": {
+      "Base": "ED_Spider_RapidShooter_Turbo",
       "DifficultyRating": 150,
       "Rarity": 5.875,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 1,
       "SpawnAmountModifier": 1,
       "CanBeUsedForConstantPressure": true,
-      "CanBeUsedInEncounters": false,
-      "TimeDilation": 10,
-      "PawnStats": {
-        "PST_DamageResistance": 11.343
-      }
+      "CanBeUsedInEncounters": false
     },
     "ED_JellyBreeder_RockpoxPlague": {
       "Base": "ED_JellyBreeder_RockpoxPlague",
@@ -651,7 +647,7 @@
       "ED_Spider_Grunt_Guard_Elite",
       "ED_JellyBreeder_RockpoxPlague",
       "ED_Spider_Boss_TwinA_Weak",
-      "ED_Spider_RapidShooter_white",
+      "ED_Spider_RapidShooter_Turbo",
       "ED_Spider_ExploderTank_small"
     ],
     "remove": []
