@@ -4,7 +4,10 @@ json files of difficulties that I have created for the Deep Rock Galactic mod [C
 ## [Main Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Main%20Difficulties)
 These are the "high-effort" difficulties I've created, intended to be another way to enjoy a (mostly) 6x2-esque experience in modded DRG. The list is chronological with more recently released difficulties at the bottom.
 
-Currently, these difficulties consist of:
+**Suggested Difficulties:**
+The suggested difficulties to play are [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json), [Lx2ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND.json), and [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Send%20It!.json). 6x2EX is a good introduction of the style of difficulties I make while being an approachable step-up from standard 6x2. Lx2ND is the next step-up if you want a significant increase in difficulty from 6x2. Send It offers an alternative gameplay loop compared to more traditional difficulties.
+
+All the Main difficulties I've created are:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2B.json)
   - 6x2, but Breeders can respawn. They also spawn Shockers.
   - *Latest update:* MinPoolSize 13->15. 
