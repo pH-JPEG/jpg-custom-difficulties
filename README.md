@@ -18,7 +18,7 @@ All the Main difficulties I've created are:
   - [SK](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2SEFB/6x2SEFB-SK.json): Based on version rc4. Stalkers can now spawn in missions.
   - *Latest update:* rc1, rc4: MinPoolSize 13->16. SK: MinPoolSize 16->17.
 - [Lunatic (Lx2)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2.json)
-  - Where the cave madness began. Difficulty created for difficulty's sake, balance be damned. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Features.txt).
+  - Where the cave madness began. Made to experiment and push limits with difficulty created for difficulty's sake, balance be damned. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Features.txt).
   - *Latest update:* Stingtails take x1 damage.
   - **Disclaimer:** From an objective game design perspective, Lx2 is incredibly unbalanced. It is extremely punishing of any mistakes and highly RNG-based, with certain mission and biome combinations becoming near impossible from the start due to cave generation, encounter/stationary spawns, and nitra spawns. Build diversity no longer exists with degenerate strategies showing up more frequently. Don't expect to win even with highly experienced players. Overall, it is a major departure from 6x2 and should not be used as a metric for balancing difficulties or weapon balance discussions. That said, this difficulty is made for those who find extreme variance and occasional outright BS enjoyable while pushing their patience and the vanilla game weapons to the limit.
   - [Lx2 Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2/Lx2%20Simple%20Bug%20Enhance.json): Lx2 intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). You start with a resupply. Don't use this version without Simple Bug Enhance.
@@ -32,7 +32,7 @@ All the Main difficulties I've created are:
   - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
   - [6x2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Simple%20Bug%20Enhance.json): 6x2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX.json)
-  - A harder version of Lx2. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Features.txt).
+  - Lx2, but with even more ridiculous features and RNG. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Features.txt).
   - *Latest update:* Stingtails take x1 damage.
   - **Disclaimer:** As this is just Lx2 but even harder, this is more unbalanced. You have been warned.
   - [Lx2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Simple%20Bug%20Enhance.json): Lx2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
