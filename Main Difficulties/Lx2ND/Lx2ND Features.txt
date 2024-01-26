@@ -15,7 +15,7 @@ Changes/Features:
 - MEV-based Change: Nexuses spawn white Slashers. These Slashers take x2.691 damage from all sources. This is about 66 HP.
 - The Grunt Ratio continued: For comparison, Grunts in Lx2ND have a Rarity of 1 and DifficultyRating of 10 while Grunts in Lx2EX have a Rarity of 3.5 and DifficultyRating of 3. Grunts are more frequent in Lx2ND, but they also aren't guaranteed to spawn in massive clumps.
 - Praetorians have a lower Rarity (5->4).
-- Exploders that spawn from Breeders or Swarmer Eggs move at x0.75 speed from x1 speed and are white. Exploders that spawn as encounters or as part of waves or swarms still move at x1.5 speed.
+- MEV-based Change: Exploders that spawn from Breeders or Swarmer Eggs move at x0.75 speed from x1 speed and are white. Exploders that spawn as encounters or as part of waves or swarms still move at x1.5 speed.
 - Grabbers have a lower MaxSpawnCount (3->1). These still move at x1.5 speed.
 - Swarmers have a lower Rarity (5->3.5).
 - Bulks have a lower MaxSpawnCount (3->1). These still move at x1.5 speed.
