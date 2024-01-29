@@ -1,8 +1,8 @@
-The mod More Enemy Variants (MEV) by yinny is required. If you are trying to host without MEV, Custom Difficulty will not allow you to load the file. If you join a lobby with Lx2ND and you don't have MEV yourself, there will be invisible enemies.
-Whenever HP is mentioned, it's based on Hazard 6 4-player scaling. Lx2ND follows the HP scaling of Hazard 6, damage scaling of Hazard 7, and the SpeedModifier of Hazard 7. Doretta resistance is kept at 75%.
+The mod More Enemy Variants (MEV) by yinny is required. If you are trying to host without MEV, Custom Difficulty will not allow you to load the file. If you join a lobby with ND and you don't have MEV yourself, there will be invisible enemies.
+Whenever HP is mentioned, it's based on Hazard 6 4-player scaling. ND follows the HP scaling of Hazard 6, damage scaling of Hazard 7, and the SpeedModifier of Hazard 7. Doretta resistance is kept at 75%.
 The base file for working on this difficulty was Lx2EX. The following list states what was done to the file to create this difficulty.
 Changes/Features:
-- The Grunt Ratio, or the ratio of Grunts to HVTs should now favor Grunts by a reasonable amount. There are now significantly more frequent Grunts in waves compared to Lx2 and Lx2EX. The main goal of Lx2ND was to return to a more traditional gameplay style of dealing with high amounts of trash enemies with a decent amount of HVTs sprinkled in the mix. Lx2EX had too many HVTs which spawned too frequently resulting in a playing experience with too much chaos and bullshit, feeling disjointed as a result. To a lesser extent, Lx2 suffers from the same issue.
+- The Grunt Ratio, or the ratio of Grunts to HVTs should now favor Grunts by a reasonable amount. There are now significantly more frequent Grunts in waves compared to Lx2 and Lx2EX. The main goal of ND was to return to a more traditional gameplay style of dealing with high amounts of trash enemies with a decent amount of HVTs sprinkled in the mix. Lx2EX had too many HVTs which spawned too frequently resulting in a playing experience with too much chaos and bullshit, feeling disjointed as a result. To a lesser extent, Lx2 suffers from the same issue.
 - Removed weak Lacerator, Crassus Detonator, Fast Bulks, weak Nemesis, God Sentinel, God Oppressor, God Shellback, God Younglings, global Radioactive Praetorians, global Younglings, global Trawlers, and global Shellbacks.
 - You start with 10 Nitra with a Resupply Cost of 50.
 - Increased VeteranLarge chance (11.3%->30%) and MaxSpawnCount of Praetorians (0->2) with a result of increased Oppressor spawn rates. 
@@ -13,7 +13,7 @@ Changes/Features:
 - Sentinels have a lower MaxSpawnCount (50->30).
 - Shredders have a higher Rarity. (5.125->5.375).
 - MEV-based Change: Nexuses spawn white Slashers. These Slashers take x2.691 damage from all sources. This is about 66 HP.
-- The Grunt Ratio continued: For comparison, Grunts in Lx2ND have a Rarity of 1 and DifficultyRating of 10 while Grunts in Lx2EX have a Rarity of 3.5 and DifficultyRating of 3. Grunts are more frequent in Lx2ND, but they also aren't guaranteed to spawn in massive clumps.
+- The Grunt Ratio continued: For comparison, Grunts in ND have a Rarity of 1 and DifficultyRating of 10 while Grunts in Lx2EX have a Rarity of 3.5 and DifficultyRating of 3. Grunts are more frequent in ND, but they also aren't guaranteed to spawn in massive clumps.
 - Praetorians have a lower Rarity (5->4).
 - MEV-based Change: Exploders that spawn from Breeders or Swarmer Eggs move at x0.75 speed from x1 speed and are white. Exploders that spawn as encounters or as part of waves or swarms still move at x1.5 speed.
 - Grabbers have a lower MaxSpawnCount (3->1). These still move at x1.5 speed.

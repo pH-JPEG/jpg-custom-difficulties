@@ -1,6 +1,6 @@
 {
-  "Name": "Lx2ND",
-  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Turbo Menace is now its own MEV enemy with a new model, modified base HP, and no longer uses TimeDilation. Exploders from Breeders and Swarmer Eggs are now white.",
+  "Name": "ND",
+  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Renamed to ND.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
