@@ -5,7 +5,7 @@ json files of difficulties that I have created for the Deep Rock Galactic mod [C
 These are the "high-effort" difficulties I've created, intended to be another way to enjoy a (mostly) 6x2-esque experience in modded DRG. The list is chronological with more recently released difficulties at the bottom.
 
 **Suggested Difficulties:**
-The suggested difficulties to play are [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json), [Lx2ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND.json), and [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Send%20It!.json). 6x2EX is a good introduction of the style of difficulties I make while being an approachable step-up from standard 6x2. Lx2ND is the next step-up if you want a significant increase in difficulty from 6x2. Send It offers an alternative gameplay loop compared to more traditional difficulties.
+The suggested difficulties to play are [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json), [ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/ND/ND.json), and [Send It!](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Send%20It!.json). 6x2EX is a good introduction of the style of difficulties I make while being an approachable step-up from standard 6x2. ND is the next step-up if you want a significant increase in difficulty from 6x2. Send It offers an alternative gameplay loop compared to more traditional difficulties.
 
 All the Main difficulties I've created are:
 - [6x2 Breeder Edition (6x2B)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2B.json)
@@ -42,10 +42,10 @@ All the Main difficulties I've created are:
   - 6x2EX, but with 4 features from Lx2EX. Additions are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Features.txt).
   - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
   - [6x2LX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Simple%20Bug%20Enhance.json): 6x2LX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
-- [Lx2ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND.json)
-  - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a Lx2ND lobby without downloading MEV.
-  - The more balanced, consistent, and polished successor to Lx2 and Lx2EX which serves as an initial experiment with MEV. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2ND/Lx2ND%20Features.txt).
-  - *Latest update:* Turbo Menace is now its own MEV enemy with a new model, modified base HP, and no longer uses TimeDilation. Exploders from Breeders and Swarmer Eggs are now white.
+- [ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/ND/ND.json)
+  - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a ND lobby without downloading MEV.
+  - The more balanced, consistent, and polished successor to Lx2 and Lx2EX which serves as an initial experiment with MEV. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/ND/ND%20Features.txt).
+  - *Latest update:* Renamed difficulty to ND.
 
 ## [WIP Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/WIP%20Difficulties)
 Difficulties that are currently being tested. All versions will be uploaded to the corresponding difficulty's folder. Upon completion, all pre-release versions will be moved to the Alpha/Beta Versions folder.
