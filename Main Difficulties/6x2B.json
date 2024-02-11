@@ -238,7 +238,7 @@
       "CanBeUsedForConstantPressure": true,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 2,
-      "Difficulty": 130,
+      "DifficultyRating": 130,
       "Rarity": 5
     },
     "ED_Jelly_Spawn": {
