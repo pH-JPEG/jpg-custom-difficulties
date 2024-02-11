@@ -254,7 +254,7 @@
       "SpawnAmountModifier": 1,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 25,
-      "CanBeUsedInConstantPressure": true,
+      "CanBeUsedForConstantPressure": true,
       "SpawnSpread": 400
     },
     "ED_Bomber_Explosive": {
@@ -264,7 +264,7 @@
       "SpawnAmountModifier": 1,
       "MinSpawnCount": 1,
       "MaxSpawnCount": 3,
-      "CanBeUsedInConstantPressure": true,
+      "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": false
     },
     "ED_Spider_Stinger": {
