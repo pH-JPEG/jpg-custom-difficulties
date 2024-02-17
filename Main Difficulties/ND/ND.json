@@ -1,6 +1,6 @@
 {
   "Name": "ND",
-  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Renamed to ND.",
+  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV). The relatively fair successor to Lx2 and Lx2EX that also is an initial experiment with MEV. Latest version: Nexuses no longer take global x2.303 damage and instead take x3.175 from fire damage. Sentinels from Hiveguard no longer have SpawnSpread.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -238,7 +238,7 @@
       "TimeDilation": 2,
       "DifficultyRating": 100
     },
-    "ED_Spider_Tank_HeavySpawn": {
+    "ED_Sentinel": {
       "Base": "ED_Spider_Tank_HeavySpawn",
       "DifficultyRating": 50,
       "Rarity": 5.125,
@@ -302,7 +302,7 @@
       "Base": "ED_SpiderSpawner",
       "DifficultyRating": 120,
       "PawnStats": {
-        "PST_DamageResistance": 2.303
+        "PST_FireResistance": -2.175
       }
     },
     "ED_Spider_Grunt": {
@@ -639,7 +639,7 @@
   "CommonEnemies": {
     "clear": false,
     "add": [
-      "ED_Spider_Tank_HeavySpawn",
+      "ED_Sentinel",
       "ED_Bomber_Explosive",
       "ED_JellyBreeder_Swarm",
       "ED_Jelly_Swarmer",
