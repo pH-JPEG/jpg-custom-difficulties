@@ -29,7 +29,7 @@ All the Main difficulties I've created are:
 - [6x2EX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX.json)
   - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a 6x2EX lobby without downloading MEV.
   - A 6x2-based, more fair version of Lx2. More consistent and less disruptive enemy spam. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Features.txt).
-  - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
+  - *Latest update:* Nexuses no longer take global x2.303 damage and instead take x3.175 from fire damage. Sentinels from Hiveguard no longer have SpawnSpread.
   - [6x2EX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2EX/6x2EX%20Simple%20Bug%20Enhance.json): 6x2EX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [Lunatic-Extra (Lx2EX)](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX.json)
   - Lx2, but with even more ridiculous features and RNG. Features and differences from Lx2 [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/Lx2EX/Lx2EX%20Features.txt).
@@ -40,12 +40,12 @@ All the Main difficulties I've created are:
 - [6x2LX](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX.json)
   - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a 6x2LX lobby without downloading MEV.
   - 6x2EX, but with 4 features from Lx2EX. Additions are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Features.txt).
-  - *Latest update:* Grunt Rarity 3->1.5. Grunts from Nexuses, Swarmer Tunnels, and Swarmer Eggs are now white.
+  - *Latest update:* Nexuses no longer take global x2.303 damage and instead take x3.175 from fire damage. Sentinels from Hiveguard no longer have SpawnSpread.
   - [6x2LX Simple Bug Enhance](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/6x2LX/6x2LX%20Simple%20Bug%20Enhance.json): 6x2LX intended for use with the mod [Simple Bug Enhance](https://mod.io/g/drg/m/simple-bug-enhance). Don't use this version without Simple Bug Enhance.
 - [ND](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/ND/ND.json)
   - **REQUIRES THE MORE ENEMY VARIANTS MOD BY YINNY.** This mod can be found in the [Practical DRG Discord](https://discord.gg/hFkqMXPBzA) under the modding-forum channel as its own post labeled "WIP More Enemy Variants (MEV)." Without the mod, a host cannot load the difficulty file in Custom Difficulty while some enemies are invisible to a client who joined a ND lobby without downloading MEV.
   - The more balanced, consistent, and polished successor to Lx2 and Lx2EX which serves as an initial experiment with MEV. Features are listed [here](https://github.com/pH-JPEG/jpg-custom-difficulties/blob/main/Main%20Difficulties/ND/ND%20Features.txt).
-  - *Latest update:* Renamed difficulty to ND.
+  - *Latest update:* Nexuses no longer take global x2.303 damage and instead take x3.175 from fire damage. Sentinels from Hiveguard no longer have SpawnSpread.
 
 ## [WIP Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/WIP%20Difficulties)
 Difficulties that are currently being tested. All versions will be uploaded to the corresponding difficulty's folder. Upon completion, all pre-release versions will be moved to the Alpha/Beta Versions folder.
