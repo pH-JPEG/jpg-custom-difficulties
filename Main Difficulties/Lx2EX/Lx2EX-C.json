@@ -1,6 +1,6 @@
 {
   "Name": "Lx2EX-C",
-  "Description": "Lx2EX Carry. Please only use this for testing. Latest update: Stingtails take x1 damage.",
+  "Description": "REQUIRES MORE ENEMY VARIANTS (MEV).Lx2EX Carry. Please only use this for testing. Latest update: Now requires MEV. Slashers from Nexuses are white. Exploders from Breeders, Swarmer Eggs, and Swarmer Tunnels are now white. God Shellbacks, God Oppressors, and God Younglings are red.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     240
@@ -203,6 +203,11 @@
   "ReviveHealthRatio": 0.4,
   "EliteCooldown": 0,
   "EnemyDescriptors": {
+    "ED_CaveLeech": {
+      "Base": "ED_CaveLeech",
+      "TimeDilation": 2,
+      "DifficultyRating": 100
+    },
     "ED_Spider_Tank_HeavySpawn_God": {
       "Base": "ED_Spider_Tank_HeavySpawn",
       "DifficultyRating": 200,
@@ -273,12 +278,7 @@
       "CanBeUsedInEncounters": true
     },
     "ED_Spider_Spawn": {
-      "Base": "ED_Spider_Grunt_Attacker"
-    },
-    "ED_CaveLeech": {
-      "Base": "ED_CaveLeech",
-      "TimeDilation": 2,
-      "DifficultyRating": 100
+      "Base": "ED_Spider_Grunt_Attacker_white"
     },
     "ED_SpiderSpawner": {
       "Base": "ED_SpiderSpawner",
@@ -339,14 +339,14 @@
       "CanBeUsedInEncounters": true
     },
     "ED_EggSpider": {
-      "Base": "ED_Spider_Exploder"
+      "Base": "ED_Spider_Exploder_white"
     },
     "ED_TunnelSwarmer": {
-      "Base": "ED_Spider_Exploder",
+      "Base": "ED_Spider_Exploder_white",
       "SpawnSpread": 400
     },
     "ED_Jelly_Spawn": {
-      "Base": "ED_Spider_Exploder"
+      "Base": "ED_Spider_Exploder_white"
     },
     "ED_Spider_Exploder": {
       "Base": "ED_Spider_Exploder",
@@ -403,7 +403,7 @@
       "Rarity": 5.125
     },
     "ED_Woodlouse_God": {
-      "Base": "ED_Woodlouse",
+      "Base": "ED_Woodlouse_red",
       "DifficultyRating": 200,
       "Rarity": 9,
       "MinSpawnCount": 1,
@@ -487,7 +487,7 @@
       }
     },
     "ED_Woodlouse_Youngling_God": {
-      "Base": "ED_Woodlouse_Youngling",
+      "Base": "ED_Woodlouse_Youngling_red",
       "DifficultyRating": 150,
       "Rarity": 9.5,
       "MinSpawnCount": 3,
@@ -530,7 +530,7 @@
       }
     },
     "ED_Spider_ShieldTank_God": {
-      "Base": "ED_Spider_ShieldTank",
+      "Base": "ED_Spider_ShieldTank_red",
       "DifficultyRating": 200,
       "Rarity": 8,
       "MinSpawnCount": 1,
