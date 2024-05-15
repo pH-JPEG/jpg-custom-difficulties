@@ -1,3 +1,4 @@
+The mod More Enemy Variants (MEV) by yinny is required. If you are trying to host without MEV, Custom Difficulty will not allow you to load the file. If you join a lobby with Lx2EX and you don't have MEV yourself, there will be invisible enemies.
 Compared to Lx2, Lx2EX adds/changes these features:
 Bad RNG rolls for swarm/wave timers and wave sizes more common.
 Start with 40 nitra and revive with 40% HP compared to 10%. Also autoregen to 40%.
