@@ -1,6 +1,6 @@
 {
   "Name": "Lx2",
-  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Stingtails take x1 damage.",
+  "Description": "Lunatic. Embrace the cave madness. I request 225+ morkite true solos with this. Latest update: Updated for Season 5; StationaryEnemyDiversity 4->6, DisruptiveEnemyPoolCount 9->10.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -178,8 +178,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -209,8 +209,8 @@
     }
   ],
   "DisruptiveEnemyPoolCount": {
-    "min": 9,
-    "max": 9
+    "min": 10,
+    "max": 10
   },
   "MinPoolSize": 30,
   "MaxActiveElites": 0,

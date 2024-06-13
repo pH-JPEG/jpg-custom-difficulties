@@ -1,6 +1,6 @@
 {
   "Name": "Send It!",
-  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: MinPoolSize 13->14.",
+  "Description": "No swarms, but fast normal waves. Best enjoyed on Mining, Egg, Salvage, and Refinery missions. All other mission types are to be avoided. Latest update: Updated for Season 5; StationaryEnemyDiversity 4->6, DisruptiveEnemyPoolCount max 7->8, MinPoolSize 14->15.",
   "MaxActiveCritters": 90,
   "MaxActiveSwarmers": 120,
   "MaxActiveEnemies": 120,
@@ -133,8 +133,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -158,9 +158,9 @@
   ],
   "DisruptiveEnemyPoolCount": {
     "min": 4,
-    "max": 7
+    "max": 8
   },
-  "MinPoolSize": 14,
+  "MinPoolSize": 15,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,

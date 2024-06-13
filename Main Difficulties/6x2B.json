@@ -1,6 +1,6 @@
 {
   "Name": "6x2B",
-  "Description": "6x2, but there's more breeders. They also spawn shockers now. Latest update: MinPoolSize 13->15.",
+  "Description": "6x2, but there's more breeders. They also spawn shockers now. Latest update: Updated for Season 5; StationaryEnemyDiversity 6->8, DisruptiveEnemyPoolCount max 7->8, MinPoolSize 15->16.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -171,8 +171,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -217,9 +217,9 @@
   ],
   "DisruptiveEnemyPoolCount": {
     "min": 4,
-    "max": 7
+    "max": 8
   },
-  "MinPoolSize": 15,
+  "MinPoolSize": 16,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,

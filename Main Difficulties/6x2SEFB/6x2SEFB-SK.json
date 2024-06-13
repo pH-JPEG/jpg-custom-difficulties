@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB-SK",
-  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Latest update: MinPoolSize 16->17.",
+  "Description": "6x2 with Sentinels, Fire Bombers, and Stalkers. Latest update: Updated for Season 5; StationaryEnemyDiversity 4->6, DisruptiveEnemyPoolCount max 7->8, MinPoolSize 17->18.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -143,8 +143,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -168,9 +168,9 @@
   ],
   "DisruptiveEnemyPoolCount": {
     "min": 4,
-    "max": 7
+    "max": 8
   },
-  "MinPoolSize": 17,
+  "MinPoolSize": 18,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,

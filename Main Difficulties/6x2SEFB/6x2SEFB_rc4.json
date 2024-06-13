@@ -1,6 +1,6 @@
 {
   "Name": "6x2SEFB_rc4",
-  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. rc4: Alternate version where Sentinels are made less common and Fire Bombers are more common compared to version rc1. MinPoolSize changed to 14. Latest update: MinPoolSize 15->16.",
+  "Description": "Hazard 6x2 with Sentinels and Fire Bombers. rc4: Alternate version where Sentinels are made less common and Fire Bombers are more common compared to version rc1. MinPoolSize changed to 14. Latest update: Updated for Season 5; StationaryEnemyDiversity 4->6, DisruptiveEnemyPoolCount max 7->8, MinPoolSize 16->17.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -143,8 +143,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -168,9 +168,9 @@
   ],
   "DisruptiveEnemyPoolCount": {
     "min": 4,
-    "max": 7
+    "max": 8
   },
-  "MinPoolSize": 16,
+  "MinPoolSize": 17,
   "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.4,
   "PointExtractionScalar": 1.4,

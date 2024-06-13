@@ -1,6 +1,6 @@
 {
   "Name": "6x2EX",
-  "Description": "REQUIRES MEV. A 6x2-based, more fair version of Lx2. Latest change: Nexuses no longer take global x2.303 damage and instead take x3.175 from fire damage. Sentinels from Hiveguard no longer have SpawnSpread.",
+  "Description": "REQUIRES MEV. A 6x2-based, more fair version of Lx2. Latest change: Updated for Season 5; StationaryEnemyDiversity 4->6, DisruptiveEnemyPoolCount 7->8. Nexuses take x3.175->x3.95 fire damage.",
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": [
     90,
@@ -129,8 +129,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 4,
-        "max": 4
+        "min": 6,
+        "max": 6
       }
     }
   ],
@@ -153,8 +153,8 @@
     }
   ],
   "DisruptiveEnemyPoolCount": {
-    "min": 7,
-    "max": 7
+    "min": 8,
+    "max": 8
   },
   "MinPoolSize": 30,
   "MaxActiveElites": 0,
@@ -225,7 +225,7 @@
     "ED_SpiderSpawner": {
       "Base": "ED_SpiderSpawner",
       "PawnStats": {
-        "PST_FireResistance": -2.175
+        "PST_FireResistance": -2.95
       }
     },
     "ED_EggSpider": {
