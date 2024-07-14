@@ -1,5 +1,5 @@
 # jpg-custom-difficulties
-json files of difficulties that I have created for the Deep Rock Galactic mod [Custom Difficulty](https://mod.io/g/drg/m/custom-difficulty).
+## With CD2 in active development, all CD1 difficulties here will no longer be updated. This repo will simply be an archive for all my CD1 difficulties. All the relevant CD1 difficulties have already been ported to CD2 which can be found [here](https://github.com/pH-JPEG/jpg-CD2-difficulties).
 
 ## [Main Difficulties](https://github.com/pH-JPEG/jpg-custom-difficulties/tree/main/Main%20Difficulties)
 These are the "high-effort" difficulties I've created, intended to be another way to enjoy a (mostly) 6x2-esque experience in modded DRG. The list is chronological with more recently released difficulties at the bottom.
